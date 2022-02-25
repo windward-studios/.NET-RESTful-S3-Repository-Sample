@@ -1,0 +1,13 @@
+
+SampleRESTfulS3Plugin/.vs/SampleRESTfulS3Plugin/v16/
+
+SampleRESTfulS3Plugin/bin/Debug/
+
+SampleRESTfulS3Plugin/obj/Debug/
+
+SampleRESTfulS3Plugin/packages/*
+
+*.p7s
+
+
+*.user
